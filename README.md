@@ -34,16 +34,13 @@
         <div class="skill-row">
           <img class="webimage" src="https://image.flaticon.com/icons/svg/2282/2282188.svg" alt="computervector">
           <h3>Web Design and Programming</h3>
-          <p class="web-skill-description">It's hard to believe that I couldn't see. You were always there beside me
-                        Thought I was alone, with no one to hold. But you were always right beside me
-                        This feeling's like no other. I want you to know .</p>
+          <p class="web-skill-description">I'm currently learning HTML, CSS, Bootstrap, and JavaScript. I know how to work Adobe Pohotshop and Illustrator to edit photos and create custom logos. Solving problems using creative thinking is something I enjoy, which is why I like programming so much! </p>
         </div>
 
         <div class="skill-row">
           <img class="handsimage" src="https://image.flaticon.com/icons/svg/1534/1534938.svg" alt="brainpic">
           <h3>Collaborative</h3>
-          <p> We're all in this together and we reach we can fly
-            go inside we can make it. We're all in this together and it shows where we stand hand in hand make our dreams come true.</p>
+          <p> Being part of a team and working with others is such a huge part of the IT industry. Weather it is working at a help desk or working on code, collaboration and communicating with others is a necessicty. My experience in customer support has taught me about different personalities and backgrounds. Working in teams avoids group think and results in a more productive environment! </p>
         </div>
       </div>
 
